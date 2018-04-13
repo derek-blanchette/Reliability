@@ -5,3 +5,7 @@ data("Formaldehyde")
 
 #Calculate the Intraclass Correlations
 ICC(Formaldehyde[,c(1,2)])
+
+#The estimates produced are those of:
+#Shrout, Patrick E. and Fleiss, Joseph L. 
+#Intraclass correlations: uses in assessing rater reliability. Psychological Bulletin, 1979, 86, 420-3428.
