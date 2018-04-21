@@ -1,4 +1,4 @@
-# Agreement Plot Example
+# Agreement Plot Example - See Markdown file for Tips
 # Derek R. Blanchette
 
 #Load the measurements from the Formaldehyde data set
