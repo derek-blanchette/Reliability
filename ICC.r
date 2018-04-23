@@ -4,7 +4,9 @@ library(psych)
 data("Formaldehyde")
 
 #Calculate the Intraclass Correlations
-ICC(Formaldehyde[,c(1,2)])
+result <- ICC(Formaldehyde[,c(1,2)])
+
+names(result)
 
 #The estimates produced are those of:
 #Shrout, Patrick E. and Fleiss, Joseph L. 
