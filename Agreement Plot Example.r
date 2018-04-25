@@ -1,7 +1,7 @@
 # Agreement Plot Example - See Markdown file for Tips
 # Derek R. Blanchette
 
-#Load the measurements from the Formaldehyde data set
+# Load the measurements from the Formaldehyde data set
 data("Formaldehyde")
 
 #Data wrangling
