@@ -1,6 +1,6 @@
 # Agreement Plots in Reliability
 
-When working with quantitative values, an agreement plot is a scatter plot of rating 1 vs rating 2. It is an effective way to visualize intrarater and interrater agreement. They also make good companions to the numeric measures of reliability. Here are some helpful considerations:
+When working with quantitative values, an agreement plot is a scatter plot of rating 1 vs rating 2. It is an effective way to visualize intrarater (within) and interrater (between) agreement. They also make good companions to the numeric measures of reliability. Here are some helpful considerations:
 
 * Ensure that both the X and the Y axis are on the same scale. This will ensure that the plot is square.
 * Add the line of perfect agreement Y = X (abline in R). This will help call out instances of large deviation from agreement. 
