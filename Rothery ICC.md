@@ -1,4 +1,4 @@
- There is a nonparametric measure of reliability by Rothery.
+There is a nonparametric measure of reliability by Rothery.
 It has some notable limitations, including its limited range of values.
 
 Personally, I have found it useless professionally.
